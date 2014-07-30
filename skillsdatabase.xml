@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person>
+        <name>Miguel Escobar Varela</name>
+        <email>m.escobar@nus.edu.sg</email>
+        <website>miguelescobar.com</website>
+        <skills>
+            <skill>Python</skill>
+            <skill>JavaScript</skill>
+            <skill>HTML/CSS</skill>
+            <skill>XML/XSLT</skill>
+        </skills>
+    </person>
+    <person>
+        <name>Derek Miller</name>
+        <email>dmiller@fas.harvard.edu</email>
+        <website>http://scholar.harvard.edu/dmiller</website>
+        <skills>
+            <skill>Python</skill>
+            <skill>HTML/CSS</skill>
+            <skill>MySQL</skill>
+            <skill>D3.js</skill>
+        </skills>
+    </person>
+</people>
